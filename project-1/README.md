@@ -14,11 +14,7 @@ This is a modern and responsive **Nike product landing page** built using **Reac
 - 🧑‍💻 Built with clean React components
 
 ---
-## 🖼️ Project Preview
 
-![Screenshot](./public/images/Screenshot.png)
-
----
 ## 🛠️ Tech Stack
 
 - **React.js** – Component-based architecture  
