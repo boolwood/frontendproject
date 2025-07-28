@@ -16,7 +16,7 @@ This is a modern and responsive **Nike product landing page** built using **Reac
 ---
 ## 🖼️ Project Preview
 
-![Screenshot](./images/Screenshot.png)
+![Screenshot](./public/images/Screenshot.png)
 
 ---
 ## 🛠️ Tech Stack
